@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @MattFus
 - 👀 I’m interested in <code> coding </code>
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning <code> Java - Python </code>
+- 📫 How to reach me <code> matteofusaro1@gmail.com </code>
 
 <!---
 MattFus/MattFus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
