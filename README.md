@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MattFus
 - 👀 I’m interested in <code> coding </code>
-- 🌱 I’m currently learning <code> Java - Python </code>
+- 🌱 I’m currently learning <code> Java - Python - C++</code>
 - 📫 How to reach me <code> matteofusaro1@gmail.com </code>
 
 <!---
